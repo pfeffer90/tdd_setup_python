@@ -28,6 +28,6 @@ cd tdd_setup_python
 pytest
 ```
 
-This will run all the assertions in the functions with name pattern "test_*" in the files matching "test_*.py". You will see one failing test that you can sure fix easily by modifying [test_role_model.py](test_role_model.py) :)
+This will run all the assertions in the functions with name pattern "test\_\*" in the files matching "test\_\*.py". You will see one failing test that you can sure fix easily by modifying [test_role_model.py](test_role_model.py) :)
 
 ## Start the TDD cycle and write awesome code
